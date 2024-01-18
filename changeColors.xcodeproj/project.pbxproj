@@ -13,6 +13,7 @@
 		0DB415512B5511FA008C411E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DB4154F2B5511FA008C411E /* Main.storyboard */; };
 		0DB415532B5511FA008C411E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DB415522B5511FA008C411E /* Assets.xcassets */; };
 		0DB415562B5511FA008C411E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DB415542B5511FA008C411E /* LaunchScreen.storyboard */; };
+		0DB4155E2B55238D008C411E /* NaikaiFont-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0DB4155D2B55238D008C411E /* NaikaiFont-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0DB415522B5511FA008C411E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0DB415552B5511FA008C411E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0DB415572B5511FA008C411E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0DB4155D2B55238D008C411E /* NaikaiFont-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NaikaiFont-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		0DB415482B5511FA008C411E /* changeColors */ = {
 			isa = PBXGroup;
 			children = (
+				0DB4155D2B55238D008C411E /* NaikaiFont-Regular.ttf */,
 				0DB415492B5511FA008C411E /* AppDelegate.swift */,
 				0DB4154B2B5511FA008C411E /* SceneDelegate.swift */,
 				0DB4154D2B5511FA008C411E /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0DB415562B5511FA008C411E /* LaunchScreen.storyboard in Resources */,
+				0DB4155E2B55238D008C411E /* NaikaiFont-Regular.ttf in Resources */,
 				0DB415532B5511FA008C411E /* Assets.xcassets in Resources */,
 				0DB415512B5511FA008C411E /* Main.storyboard in Resources */,
 			);
